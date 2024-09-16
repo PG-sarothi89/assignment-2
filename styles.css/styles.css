@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+
+.inter-fornt
+{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+/* Shared styles */
+.bg-primary{
+    background-color: black;
+}
+
+.text1{
+    font-weight: 400;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+.display{
+    display: flex;
+}
+.btn-primary{
+    background-color: rgb(230, 83, 60);
+    margin: 0 16px;
+    line-height: 25px; 
+    padding: 10px 22px 10px 22px;
+   
+}
+
+.btn-text{
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+.text-primary{
+    color: rgba(255, 255, 255, 0.5)
+}
+
+.btn-1{
+    border-radius: 40px;
+background: rgb(230, 83, 60);
+margin: 0 15px;
+padding: 15px 38px 15px 38px;
+}
+
+
+/* Fitness */
+.fitness{
+    color: rgb(230, 83, 60);
+font-family: Inter;
+font-size: 36px;
+font-weight: 800;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: left;
+font-style: italic;
+
+
+}
+
+.infobar{
+   gap: 20%;
+   align-items: center;
+   justify-content: space-evenly;
+  
+}
+
+.menubar{
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menubar-btn{
+    border-radius: 47px;
+    width: 97px;
+    height: 40px;
+    gap: 10;
+    
+    color: aliceblue;
+    
+}
+.heading-body-text{
+    color: rgb(255, 255, 255);
+    font-size: 80px;
+    font-weight: 800;
+    line-height: 120%;
+    text-align: left;
+}
+.main-heading{
+    justify-content: space-between;
+    align-items: center;
+     padding-left: 150px;
+    padding-right: 200px;
+} 
+
+
